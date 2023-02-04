@@ -37,4 +37,8 @@ Clicking "YES" removes the post and "NO" goes back
 
 If deleted it shows a message
 
+Click on the user name to see details of the user
+
+![image](https://user-images.githubusercontent.com/122369312/216781233-f0ca9c25-518e-4ecd-a5f0-e4bb372ac211.png)
+
 Click on logout to signout and go to the login page
