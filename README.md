@@ -1,6 +1,6 @@
 # Instaclone
 
-App lets users post images and also like other users images. Used a coustom api for login registration and all the post functionality.
+App lets users post images and also like other users images. Used a coustom api for login registration and all the post functionality. Created using React and Tailwind CSS.
 
 Register with the required details
 
