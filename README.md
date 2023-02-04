@@ -37,6 +37,8 @@ Clicking "YES" removes the post and "NO" goes back
 
 If deleted it shows a message
 
+![image](https://user-images.githubusercontent.com/122369312/216781322-555bcbd8-d62a-4455-ae66-ebc2782ab321.png)
+
 Click on the user name to see details of the user
 
 ![image](https://user-images.githubusercontent.com/122369312/216781233-f0ca9c25-518e-4ecd-a5f0-e4bb372ac211.png)
