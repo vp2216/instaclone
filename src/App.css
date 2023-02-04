@@ -1,0 +1,56 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.submit {
+  left: 40vw;
+  top: 30vh;
+}
+
+.massage {
+  top: 40vh;
+  left: 10vw;
+  width: 80vw;
+}
+@media (min-width: 600px) {
+  .massage {
+    top: 40vh;
+    left: 20vw;
+    width: 60vw;
+  }
+}
+@media (min-width: 768px) {
+  .massage {
+    top: 40vh;
+    left: 30vw;
+    width: 40vw;
+  }
+}
+
+@media (min-width: 1024px) {
+  .massage {
+    top: 40vh;
+    left: 35vw;
+    width: 30vw;
+  }
+}
+
+.background::before {
+  content: "";
+  z-index: -1;
+  position: absolute;
+  background: url("./images/home.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  opacity: 0.15;
+}
