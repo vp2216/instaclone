@@ -1,6 +1,6 @@
 # Instaclone
 
-App lets users post images and also like other users images. Used a coustom api for login registration and all the post functionality. Created using React and Tailwind CSS.
+An app with functionality to post photos and add discription. This app also uses coustom api for login, registration and posting. Used Mongodb as the database, Cloudinary for storage of images and ExpressJS as server. The server was deployed in Render and the app was hosted on Netlify. Created using React and Tailwind CSS.
 
 Register with the required details
 
